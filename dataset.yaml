@@ -1,0 +1,43 @@
+# ICOD Datasets
+debug_tr:
+  {
+    root: "./dataset/Train/Debug-TR",
+    image: { path: "Imgs", suffix: ".jpg" },
+    mask: { path: "GT", suffix: ".png" },
+  }
+cod10k_tr:
+  {
+    root: "./dataset/Train/COD10K-TR",
+    image: { path: "Imgs", suffix: ".jpg" },
+    mask: { path: "GT", suffix: ".png" },
+  }
+# camo_tr:
+#   {
+#     root: "YOUR-ICOD-DATASETS-ROOT/Train/CAMO-TR",
+#     image: { path: "Imgs", suffix: ".jpg" },
+#     mask: { path: "GT", suffix: ".png" },
+#   }
+cod10k_te:
+  {
+    root: "./dataset/Test/COD10K-TE",
+    image: { path: "Imgs", suffix: ".jpg" },
+    mask: { path: "GT", suffix: ".png" },
+  }
+camo_te:
+  {
+    root: "./dataset/Test/CAMO-TE",
+    image: { path: "Imgs", suffix: ".jpg" },
+    mask: { path: "GT", suffix: ".png" },
+  }
+chameleon:
+  {
+    root: "./dataset/Test/CHAMELEON",
+    image: { path: "Imgs", suffix: ".jpg" },
+    mask: { path: "GT", suffix: ".png" },
+  }
+nc4k:
+  {
+    root: "./dataset/Test/NC4K",
+    image: { path: "Imgs", suffix: ".jpg" },
+    mask: { path: "GT", suffix: ".png" },
+  }

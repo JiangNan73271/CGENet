@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ygq@192.168.203.11:22 password (4)" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="4090">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ygq/wyh/ZoomNeXt" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/dataset" />
+            <excludedPath local="true" path="$PROJECT_DIR$/即插即用注意力模块" />
+            <excludedPath local="true" path="$PROJECT_DIR$/特征融合模块" />
+            <excludedPath local="true" path="$PROJECT_DIR$/pretrained_weight" />
+            <excludedPath path="/home/ygq/wyh/ZoomNeXt/outputs" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="ygq@192.168.203.11:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ygq/wyh/ZoomNeXt" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ygq@192.168.203.11:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ygq@192.168.203.11:22 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ygq@192.168.203.11:22 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ygq/wyh/open_CGENet" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ygq@192.168.203.19:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ygq/wyh/open_CGENet" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/ygq/wyh/CGENet/outputs" />
+            <excludedPath path="/home/ygq/wyh/CGENet/dataset" />
+            <excludedPath path="/home/ygq/wyh/open_CGENet/dataset" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
